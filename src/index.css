@@ -1,0 +1,24 @@
+button{
+    background-color: #090909;
+    padding: 9px 12px;
+    color: #fff;
+    border-radius: 8px;
+    margin-right: 10px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+button:disabled{
+    background-color: #5a5858;
+    color: #c2c2c2;
+}
+
+.reset-btn{
+    background-color: #c92901;
+}
+
+p{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
