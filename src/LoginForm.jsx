@@ -16,7 +16,7 @@ const LoginForm = () => {
         <form onSubmit={handleSubmit}>
             <input type="text" placeholder='Enter Username'
             onChange={handleChange}/>
-            <button type='submit'>Submit</button>
+            <button type='submit'>Log In</button>
         </form>
     </div>
   )
